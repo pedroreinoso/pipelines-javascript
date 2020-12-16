@@ -1,4 +1,4 @@
-https://duii.visualstudio.com/StarFruitTraining/_apis/build/status/pedroreinoso.pipelines-javascript-GitHub?branchName=master
+[![Build Status](https://duii.visualstudio.com/StarFruitTraining/_apis/build/status/pedroreinoso.pipelines-javascript-GitHub?branchName=master)](https://duii.visualstudio.com/StarFruitTraining/_build/latest?definitionId=6&branchName=master)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
